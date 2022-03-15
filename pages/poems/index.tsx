@@ -36,7 +36,7 @@ const Poems: NextPage = () => {
       </Head>
       <Container
         maxW="container.md"
-        bg={useColorModeValue("white", "gray.800")}
+        bg={useColorModeValue("white", "gray.900")}
         boxShadow={"2xl"}
         rounded={"lg"}
       >
